@@ -1,0 +1,29 @@
+{
+    "tokenName": "Martian Froggies",
+    "tokens": [
+        {
+            "name": "Martian Froggie 1",
+            "description": "A charming and diverse character symbolizing unity, empathy, and the strength that comes from embracing our differences.",
+            "image": "ipfs://QmaENtZqiCFT2vrJ9zxKLRYsJZKmf84fn2e6UARZdUf6Qu/Martian_Froggies_test_01.png"
+        },
+        {
+            "name": "Martian Froggie 2",
+            "description": "A charming and diverse character symbolizing creativity, imagination, and the endless possibilities of exploration.",
+            "image": "ipfs://QmaENtZqiCFT2vrJ9zxKLRYsJZKmf84fn2e6UARZdUf6Qu/Martian_Froggies_test_02.png"
+        },
+        {
+            "name": "Martian Froggie 3",
+            "description": "A charming and diverse character symbolizing resilience, courage, and the power of perseverance.",
+            "image": "ipfs://QmaENtZqiCFT2vrJ9zxKLRYsJZKmf84fn2e6UARZdUf6Qu/Martian_Froggies_test_03.png"
+        },
+        {
+            "name": "Martian Froggie 4",
+            "description": "A charming and diverse character symbolizing friendship, kindness, and the beauty of connecting with others.",
+            "image": "ipfs://QmaENtZqiCFT2vrJ9zxKLRYsJZKmf84fn2e6UARZdUf6Qu/Martian_Froggies_test_04.png"
+        }
+    ]
+}
+
+
+
+
